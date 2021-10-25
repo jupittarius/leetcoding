@@ -8,7 +8,6 @@ using namespace std;
  *
  * [1] Two Sum
  */
-
 // @lc code=start
 class Solution {
 public:
